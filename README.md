@@ -1,3 +1,3 @@
-[![My year in code, seen from above](https://harvest.paulbouharoun.com/card/paulbouharoun)](https://harvest.paulbouharoun.com/paulbouharoun)
+Senior software engineer. I also design and build [Tune Trainer](https://tunetrainer.ai) and [Trax](https://gettrax.app).
 
-<sub>My GitHub year as terraced farmland, made with [Harvest](https://github.com/paulbouharoun/harvest). More at [paulbouharoun.com](https://paulbouharoun.com).</sub>
+More at [paulbouharoun.com](https://paulbouharoun.com).
